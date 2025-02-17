@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/CMakeFiles/bootloader"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/root/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/adam/aia/aia-poker-buddy/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

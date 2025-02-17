@@ -1,0 +1,5 @@
+[0;33m--- esp-idf-monitor 1.5.0 on USB0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- Connection to USB0 failed. Available ports:
+/dev/ttyUSB0[0m
+[0m

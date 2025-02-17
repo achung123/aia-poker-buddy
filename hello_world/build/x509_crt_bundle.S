@@ -1,4 +1,4 @@
-/* * Data converted from /root/aia-poker-buddy/hello_world/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/adam/aia/aia-poker-buddy/hello_world/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)
