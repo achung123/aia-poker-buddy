@@ -73,7 +73,7 @@ dtc --version
 
 ```bash
 # Install, setup, and activate  new python virtual environment
-sudo apt install python3-venv &&
+sudo apt install python3-venv 
 
 python3 -m venv ~/<path-to-aia-poker-buddy>/.venv
 
