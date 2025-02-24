@@ -1,0 +1,17 @@
+# VSCode Setup
+.vscode/*
+
+# Virtual environment
+.venv/
+
+# West workspace management
+.west/
+
+# Build artifacts
+build/
+bootloader/
+
+# Zephyr and external modules (recreated by `west update`)
+modules/
+zephyr/
+tools/
