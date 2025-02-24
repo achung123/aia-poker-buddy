@@ -1,5 +1,5 @@
 # VSCode Setup
-.vscode/
+.vscode/*
 
 # Virtual environment
 .venv/

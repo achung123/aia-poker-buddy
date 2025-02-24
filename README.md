@@ -48,13 +48,13 @@ Please ensure that you have the minimum versions of the required basic tooling s
 Please run the following commands below:
 
 ```bash
-# Setup APT Repository 
+# Setup APT Repository
 wget https://apt.kitware.com/kitware-archive.sh
 sudo bash kitware-archive.sh
 ```
 
 ```bash
-# Use APT to install all necessary dependencies 
+# Use APT to install all necessary dependencies
 
 sudo apt install --no-install-recommends git cmake ninja-build gperf \
   ccache dfu-util device-tree-compiler wget \
@@ -103,7 +103,7 @@ west packages pip --install
 ```
 
 ```bash
-# Install Zephyr SDK 
+# Install Zephyr SDK
 cd ~/<path-to-aia-poker-buddy>/zephyr
 west sdk install
 ```
@@ -129,7 +129,7 @@ west flash
 
 ##### Monitor Serial Terminal Onboard Device while Application is Running
 
-```bash 
+```bash
 west espressif monitor -p /dev/ttyUSB0
 ```
 
