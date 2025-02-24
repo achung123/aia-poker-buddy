@@ -8,7 +8,6 @@
 .west/
 
 # Build artifacts
-build/
 bootloader/
 
 # Zephyr and external modules (recreated by `west update`)
